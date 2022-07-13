@@ -1,6 +1,6 @@
 # causal-cmd-python-wrapper
 
-This repository shows how to build command line calls to causal-command (that is, to run Tetrad algorithms at the command line) and use os.sys() calls in Python to run the commands, obtain the causal-command output files, an then load these outputs into causal-learn Python general graph objects using the txt2generalgraph command in causal-learn.
+This repository shows how to build command line calls to causal-command (that is, to run Tetrad algorithms at the command line) and use os.sys() calls in Python to run the commands, obtain the causal-command output files, and then load these outputs into causal-learn Python general graph objects using the txt2generalgraph command in causal-learn.
 
 To run this, you will need to do the following:
 
