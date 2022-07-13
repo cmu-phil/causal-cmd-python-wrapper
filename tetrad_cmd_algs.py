@@ -58,7 +58,7 @@ def fci(path, alpha):
     return txt2generalgraph(prefix + ".txt")
 
 def fges(path, penaltyDiscount):
-    os.system("java -Xmx10g -jar causal-cmd-1.4.1-20220713.034006-1-jar-with-dependencies.jar "
+    os.system("java -Xmx10g -jar " + jar + " "
               + "--default "
               + "--algorithm fges "
               + "--data-type continuous "
