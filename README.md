@@ -11,4 +11,4 @@ To run this, you will need to do the following:
 1. In your IDE (or at the command line in Python), run the file "test_tetrad_cmd_algs.py". This should run the included example file/graph and output the causal-cmd result, time-stamped, in the "causal_cmd_results" directory, then load up the graph in that result and print it, along with some graph statistics.
 1. By varying the commenting in the file "test_tetrad_cmd_algs.py" you can get causal-cmd to run various algorithms.
 
-Once you get the pattern, you should be able to modify the code for various more specific purposes.
+Once you get the idea, you should be able to modify the code for various more specific purposes.
